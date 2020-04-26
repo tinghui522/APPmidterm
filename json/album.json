@@ -1,0 +1,51 @@
+{
+    "albumTitle": "Chilly",
+    "albumList": [
+       {
+          "title": "The Immortalists",
+          "artist": "Chloe Benjamin",
+          "thumbnail_image": "https://github.com/humichen/app_hw4/blob/master/src/img/img_the_immortalists.png?raw=true",
+          "description": "If you were told the date of your death, how would it shape your...",
+          "status":"50% completed",
+          "statuscolor":"#b1b1b1",
+          "statuscolorp":"#b1b1b1",
+          "statusweight":"400",
+          "statuswidth":89,
+          "statusheight":16,
+          "statusmarginTop":9,
+          "statusunderlayColor":"#f8f8f8",
+          "width":0.5
+       },
+       {
+          "title": "Grist Mill Road",
+          "artist": "Christopher J.",
+          "thumbnail_image": "https://github.com/humichen/app_hw4/blob/master/src/img/img_gristmillroad.png?raw=true",
+          "description": "Twenty-six years ago Hannah had her eye shot out. Now she wants...",
+          "statusimg":"https://github.com/humichen/app_hw4/blob/master/src/img/btn_start_read.png?raw=true",
+          "status":"START READ",
+          "statuscolor":"#fd686b",
+          "statuscolorp":"#fff",
+          "statusweight":"bold",
+          "statuswidth":82,
+          "statusheight":21,
+          "statusmarginTop":6,
+          "statusunderlayColor":"#fd686b",
+          "width":0
+       },
+       {
+          "title": "Street Art Activity Book",
+          "artist": "Mitchell Beazley",
+          "thumbnail_image": "https://github.com/humichen/app_hw4/blob/master/src/img/img_streetartactivitybook.png?raw=true",
+          "description": "Street art is colorful, vibrant, diverse and exciting. Now you can...",
+          "statusimg":"https://github.com/humichen/app_hw4/blob/master/src/img/btn_start_read.png?raw=true",
+          "status":"START READ",
+          "statuscolor":"#fd686b",
+          "statuscolorp":"#fff",
+          "statusweight":"bold",
+          "statuswidth":82,
+          "statusheight":21,
+          "statusmarginTop":6,
+          "statusunderlayColor":"#fd686b",
+          "width":0
+       }
+ ]}
