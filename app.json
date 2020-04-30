@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "midterm",
-    "slug": "midterm",
+    "name": "HelloWorld",
+    "slug": "testzeplin2",
     "platforms": [
       "ios",
       "android",
